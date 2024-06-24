@@ -1,0 +1,25 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+.kotlin
+
+# other
+eclipse
+run
+runs
+/src/main/kotlin/com/johnlies/Secrets.kt
